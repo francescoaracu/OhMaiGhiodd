@@ -1170,12 +1170,20 @@
                         "channel_id": "365"
                     },
                     {
+                        "channel_name": "Amazon Prime IT",
+                        "channel_id": "110"
+                    },
+                    {
                         "channel_name": "Premier Sports 1 Ireland",
                         "channel_id": "771"
                     },
                     {
                         "channel_name": "Canal+ France",
                         "channel_id": "121"
+                    },
+                    {
+                        "channel_name": "Canal+ Extra 1 PL",
+                        "channel_id": "151"
                     },
                     {
                         "channel_name": "SONY TEN 2",
