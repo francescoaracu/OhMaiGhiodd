@@ -51,7 +51,7 @@ def merger_playlist():
     lista = playlist1 + "\n" + playlist2 + "\n" + playlist3
     
     # Aggiungi intestazione EPG
-    lista = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml"\n' + lista
+    lista = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/refs/heads/main/epg.xml"\n' + lista
     
     # Salva la playlist
     output_filename = os.path.join(script_directory, "lista.m3u")
@@ -177,7 +177,7 @@ def eventi_m3u8_generator():
     from datetime import datetime, timedelta
     from dateutil import parser
     
-    PROXY = "https://nzo66-piccolotest.hf.space/proxy/m3u?url="  # Proxy HLS
+    PROXY = "https://frankuaku-goganga.hf.space/proxy/m3u?url="  # Proxy HLS
     JSON_FILE = "daddyliveSchedule.json"
     OUTPUT_FILE = "eventi.m3u8"
     BASE_URL = "https://thedaddy.to/embed/"
@@ -630,7 +630,7 @@ def vavoo_italy_channels():
     import os
     import xml.etree.ElementTree as ET
     
-    PROXY = "https://nzo66-piccolotest.hf.space/proxy/m3u?url="
+    PROXY = "https://frankuaku-goganga.hf.space/proxy/m3u?url="
     EPG_FILE = "epg.xml"
     LOGOS_FILE = "logos.txt"
     OUTPUT_FILE = "channels_italy.m3u8"
