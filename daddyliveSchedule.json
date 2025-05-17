@@ -5823,6 +5823,16 @@
                 "channels": []
             },
             {
+                "time": "10:00",
+                "event": "Ukraine Premier League : Zorya vs Polessya",
+                "channels": [
+                    {
+                        "channel_name": "UPLTV",
+                        "channel_id": "9000"
+                    }
+                ]
+            },
+            {
                 "time": "10:30",
                 "event": "Poland - II Liga : Hutnik Krak\u00f3w vs Polonia Bytom",
                 "channels": [
@@ -11384,7 +11394,7 @@
         "Running</span>": [
             {
                 "time": "09:15",
-                "event": "- 17:30 : Golden Trail World Series",
+                "event": "Golden Trail World Series",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 10 UK",
@@ -11394,7 +11404,7 @@
             },
             {
                 "time": "20:00",
-                "event": "- 04:00 : Golden Trail World Series",
+                "event": "Golden Trail World Series",
                 "channels": [
                     {
                         "channel_name": "TNT Sports 10 UK",
