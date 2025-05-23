@@ -1237,7 +1237,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/298982440
 #EXTINF:-1 tvg-name="TV Shows" group-title="Eventi Live",--- TV Shows ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="331" tvg-name="Dr. Phil Season 5, Episode 89 (17:00)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/Dr.-Phil-new-Logo-Vector.svg-.png" group-title="Eventi Live",Dr. Phil Season 5, Episode 89 (17:00)
+#EXTINF:-1 tvg-id="331" tvg-name="Dr. Phil Season 5, Episode 89 (17:00)" tvg-logo="https://www.pngkit.com/png/full/275-2758070_dr-phil-dr-phil-show.png" group-title="Eventi Live",Dr. Phil Season 5, Episode 89 (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-331.php
 
 #EXTINF:-1 tvg-id="767" tvg-name="The Price Is Right Season 53, Episode 161 (17:00)" tvg-logo="https://logonoid.com/images/the-price-is-right-logo.png" group-title="Eventi Live",The Price Is Right Season 53, Episode 161 (17:00)
@@ -1261,29 +1261,20 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="Italy - Serie A : Como vs Internazionale (20:45)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live",Italy - Serie A : Como vs Internazionale (20:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-55.php
 
-#EXTINF:-1 tvg-id="31" tvg-name="Italy - Serie A : Como vs Internazionale (20:45)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live",Italy - Serie A : Como vs Internazionale (20:45)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+#EXTINF:-1 tvg-id="32" tvg-name="Italy - Serie A : Como vs Internazionale (20:45)" tvg-logo="https://www.footballkitarchive.com/static/logos/jg7ChWhHx9uMqs6/como-1907-2019-logo.png" group-title="Eventi Live",Italy - Serie A : Como vs Internazionale (20:45)
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
 #EXTINF:-1 tvg-id="59" tvg-name="Italy - Serie A : Napoli vs Cagliari (20:45)" tvg-logo="https://i.pinimg.com/originals/a9/30/15/a930151e27416730bf83fdf138868156.png" group-title="Eventi Live",Italy - Serie A : Napoli vs Cagliari (20:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-59.php
 
-#EXTINF:-1 tvg-id="276" tvg-name="Spain - La Liga : Real Betis vs Valencia (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Real Betis_vs_Valencia.png" group-title="Eventi Live",Spain - La Liga : Real Betis vs Valencia (21:00)
+#EXTINF:-1 tvg-id="31" tvg-name="Italy - Serie A : Napoli vs Cagliari (20:45)" tvg-logo="https://i.pinimg.com/originals/a9/30/15/a930151e27416730bf83fdf138868156.png" group-title="Eventi Live",Italy - Serie A : Napoli vs Cagliari (20:45)
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="276" tvg-name="Spain - La Liga : Real Betis vs Valencia (21:00)" tvg-logo="https://logodetimes.com/times/real-betis/logo-real-betis-4096.png" group-title="Eventi Live",Spain - La Liga : Real Betis vs Valencia (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-276.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
-
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Formula 2 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
-
-#EXTINF:-1 tvg-id="32" tvg-name="Moto2 : Storbritanniens Grand Prix Practice 1 (16:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Practice 1 (16:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
-
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prix Practice 1 (16:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Practice 1 (16:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="60" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
@@ -1294,13 +1285,13 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Practice 2 (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="39" tvg-name="IndyCar Racing The 109th Running of the Indianapolis 500, Practice (17:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/indy-racing-league-logo-png-transparent.png" group-title="Eventi Live",IndyCar Racing The 109th Running of the Indianapolis 500, Practice (17:00)
+#EXTINF:-1 tvg-id="39" tvg-name="IndyCar Racing The 109th Running of the Indianapolis 500, Practice (17:00)" tvg-logo="https://logodix.com/logo/679140.png" group-title="Eventi Live",IndyCar Racing The 109th Running of the Indianapolis 500, Practice (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
 
-#EXTINF:-1 tvg-id="60" tvg-name="IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/2024_Indianapolis_500_logo.svg/220px-2024_Indianapolis_500_logo.svg.png" group-title="Eventi Live",IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)
+#EXTINF:-1 tvg-id="60" tvg-name="IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)" tvg-logo="http://www.hondaindy.com/images/images/ntt_ics_cymk_pos.png" group-title="Eventi Live",IndyCar Series Season Coverage of the Pit Stop Challenge (20:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-60.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="NASCAR Craftsman Truck Series North Carolina Education Lottery 200, Qualifying (21:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Craftsman-Truck-Series-Logo.png" group-title="Eventi Live",NASCAR Craftsman Truck Series North Carolina Education Lottery 200, Qualifying (21:30)
+#EXTINF:-1 tvg-id="758" tvg-name="NASCAR Craftsman Truck Series North Carolina Education Lottery 200, Qualifying (21:30)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/x095qa1673848998.png" group-title="Eventi Live",NASCAR Craftsman Truck Series North Carolina Education Lottery 200, Qualifying (21:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
 #EXTINF:-1 tvg-name="Golf" group-title="Eventi Live",--- Golf ---
@@ -1324,25 +1315,25 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Georgia vs Florida (17:00)" tvg-logo="https://pnghq.com/wp-content/uploads/pnghq.com-georgia-bulldogs-logo-fre-4.png" group-title="Eventi Live",College Softball NCAA Tournament: Georgia vs Florida (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="397" tvg-name="College Baseball Big Ten Tournament: Washington vs USC (17:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Washington_vs_USC.png" group-title="Eventi Live",College Baseball Big Ten Tournament: Washington vs USC (17:00)
+#EXTINF:-1 tvg-id="397" tvg-name="College Baseball Big Ten Tournament: Washington vs USC (17:00)" tvg-logo="https://content.sportslogos.net/logos/7/6832/full/washington_commanders_logo_alternate_2022_sportslogosnet-1463.png" group-title="Eventi Live",College Baseball Big Ten Tournament: Washington vs USC (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-397.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: UCLA vs South Carolina (19:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/UCLA_vs_South Carolina.png" group-title="Eventi Live",College Softball NCAA Tournament: UCLA vs South Carolina (19:00)
+#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: UCLA vs South Carolina (19:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ucla-bruins-1-logo-png-transparent.png" group-title="Eventi Live",College Softball NCAA Tournament: UCLA vs South Carolina (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Florida State vs Texas Tech (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Florida State_vs_Texas Tech.png" group-title="Eventi Live",College Softball NCAA Tournament: Florida State vs Texas Tech (21:00)
+#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Florida State vs Texas Tech (21:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Florida_State_Seminoles_logo.svg/1200px-Florida_State_Seminoles_logo.svg.png" group-title="Eventi Live",College Softball NCAA Tournament: Florida State vs Texas Tech (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="397" tvg-name="College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Indiana_vs_Iowa.png" group-title="Eventi Live",College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)
+#EXTINF:-1 tvg-id="397" tvg-name="College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/xMEMC8ZYreziyTk/indiana-hoosiers-1976-1982-logo.png" group-title="Eventi Live",College Baseball Big Ten Tournament: Indiana vs. Iowa (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-397.php
 
-#EXTINF:-1 tvg-id="664" tvg-name="College Baseball ACC Tournament: Duke vs Florida State (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Duke_vs_Florida State.png" group-title="Eventi Live",College Baseball ACC Tournament: Duke vs Florida State (21:00)
+#EXTINF:-1 tvg-id="664" tvg-name="College Baseball ACC Tournament: Duke vs Florida State (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/duke-blue-devils-1-logo-png-transparent.png" group-title="Eventi Live",College Baseball ACC Tournament: Duke vs Florida State (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-664.php
 
-#EXTINF:-1 tvg-id="385" tvg-name="College Baseball SEC Tournament: Ole Miss vs. Arkansas (22:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Ole Miss_vs_Arkansas.png" group-title="Eventi Live",College Baseball SEC Tournament: Ole Miss vs. Arkansas (22:00)
+#EXTINF:-1 tvg-id="385" tvg-name="College Baseball SEC Tournament: Ole Miss vs. Arkansas (22:00)" tvg-logo="https://www.pngmart.com/files/23/Ole-Miss-Logo-PNG-Photo.png" group-title="Eventi Live",College Baseball SEC Tournament: Ole Miss vs. Arkansas (22:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-385.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Alabama vs Oklahoma (23:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Alabama_vs_Oklahoma.png" group-title="Eventi Live",College Softball NCAA Tournament: Alabama vs Oklahoma (23:00)
+#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Alabama vs Oklahoma (23:00)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/alabama-crimson-tide_logo.png" group-title="Eventi Live",College Softball NCAA Tournament: Alabama vs Oklahoma (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
 #EXTINF:-1 tvg-name="Horse Racing" group-title="Eventi Live",--- Horse Racing ---
@@ -1354,28 +1345,28 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-name="Lacrosse" group-title="Eventi Live",--- Lacrosse ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="316" tvg-name="Women's College Lacrosse : Florida vs. North Carolina (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Florida_vs_North Carolina.png" group-title="Eventi Live",Women's College Lacrosse : Florida vs. North Carolina (21:00)
+#EXTINF:-1 tvg-id="316" tvg-name="Women's College Lacrosse : Florida vs. North Carolina (21:00)" tvg-logo="http://getdrawings.com/vectors/florida-state-seal-vector-18.png" group-title="Eventi Live",Women's College Lacrosse : Florida vs. North Carolina (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
-#EXTINF:-1 tvg-id="316" tvg-name="Women's College Lacrosse : Northwestern vs. Boston College (23:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Northwestern_vs_Boston College.png" group-title="Eventi Live",Women's College Lacrosse : Northwestern vs. Boston College (23:30)
+#EXTINF:-1 tvg-id="316" tvg-name="Women's College Lacrosse : Northwestern vs. Boston College (23:30)" tvg-logo="https://clipartcraft.com/images/northwestern-university-logo-vector.png" group-title="Eventi Live",Women's College Lacrosse : Northwestern vs. Boston College (23:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
 #EXTINF:-1 tvg-name="Rugby League" group-title="Eventi Live",--- Rugby League ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="Super League Rugby : Warrington Wolves vs Hull KR (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Warrington Wolves_vs_Hull KR.png" group-title="Eventi Live",Super League Rugby : Warrington Wolves vs Hull KR (21:00)
+#EXTINF:-1 tvg-id="37" tvg-name="Super League Rugby : Warrington Wolves vs Hull KR (21:00)" tvg-logo="https://galleryofleague.com/wp-content/uploads/2022/01/Warrington_Wolves_Logo_1995-01.png" group-title="Eventi Live",Super League Rugby : Warrington Wolves vs Hull KR (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-37.php
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="451" tvg-name="Challenge Cup : Lyon vs Bath (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Lyon_vs_Bath.png" group-title="Eventi Live",Challenge Cup : Lyon vs Bath (21:00)
+#EXTINF:-1 tvg-id="451" tvg-name="Challenge Cup : Lyon vs Bath (21:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/09/lyon-logo-0.png" group-title="Eventi Live",Challenge Cup : Lyon vs Bath (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-451.php
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/K9tuhvwcM0fvMPN/italy-1952-1982-logo.png" group-title="Eventi Live",Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)
+#EXTINF:-1 tvg-id="882" tvg-name="Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)" tvg-logo="https://logodix.com/logo/1102293.png" group-title="Eventi Live",Women's Friendly tournament in Koszalin : Italy vs Netherlands (20:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 
