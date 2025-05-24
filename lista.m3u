@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
@@ -34,10 +34,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/316338054
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3249873828/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai", RAI ITALIA
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/index.m3u8
@@ -58,10 +58,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/223964527
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
@@ -232,16 +232,16 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2077387085/index.m3u8
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", SKY SPORT TENNIS
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", SKY SPORT TENNIS (2)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
 
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport", SKY SPORT TENNIS (2)
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
+
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORTS F1
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/index.m3u8
@@ -265,10 +265,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/334284931
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2198410339/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport", SUPER TENNIS
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport", SUPER TENNIS (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport", TENNIS CHANNEL
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2716316208/index.m3u8
@@ -319,22 +319,22 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/142139311
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV", SKY CINEMA DRAMA
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
@@ -349,10 +349,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/233057472
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
@@ -424,10 +424,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/241699384
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5 (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2909818756/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 6
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
@@ -442,10 +442,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/361864317
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 8 (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 9
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1753260677/index.m3u8
@@ -493,10 +493,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/393850112
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2265727942/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini", BOING (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3373510242/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3022771961/index.m3u8
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="BOING PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini", BOING PLUS
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3841982646/index.m3u8
@@ -523,10 +523,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/303787190
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1995860185/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2255724318/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/11090349/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2 (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/11090349/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2255724318/index.m3u8
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini", NICK JR
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/380958472/index.m3u8
@@ -574,10 +574,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/179844839
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1735702308/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari", NAT GEO WILD
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3428501495/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3229664409/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari", NAT GEO WILD (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3229664409/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3428501495/index.m3u8
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari", SKY ARTE
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
@@ -736,10 +736,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/565256431
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/996680722/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro", CANALE 8 (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/3107500995/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro", CARINA TV
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/1527236924/index.m3u8
@@ -847,10 +847,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/285439631
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/942153014/index.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro", HGTV
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="HGTV" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro", HGTV (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/4248997029/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2897782781/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ICARO TV" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro", ICARO TV
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2488017405/index.m3u8
@@ -1210,10 +1210,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/376550441
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2070070755/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VERA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro", VERA TV (2)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/4271554009/index.m3u8
+https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2471902234/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDEO NOVARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro", VIDEO NOVARA
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://vavoo.to/play/2791781421/index.m3u8
@@ -1267,7 +1267,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="210" tvg-name="Great Performances Season 52, Episode 15 (03:00)" tvg-logo="https://www.opus3artists.com/wp-content/uploads/2020/04/GreatPerformances_768x768.png" group-title="Eventi Live",Great Performances Season 52, Episode 15 (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-210.php
 
-#EXTINF:-1 tvg-id="313" tvg-name="Gold Rush: Mine Rescue With Freddy & Juan Season 5, Episode 3 (03:00)" tvg-logo="https://supportorangecounty.com/wp-content/uploads/2013/08/Gold-Rush-Logo1.png" group-title="Eventi Live",Gold Rush: Mine Rescue With Freddy & Juan Season 5, Episode 3 (03:00)
+#EXTINF:-1 tvg-id="313" tvg-name="Gold Rush: Mine Rescue With Freddy & Juan Season 5, Episode 3 (03:00)" tvg-logo="https://freizeitpark-news.com/wp-content/uploads/2017/01/gold_rush_logo_1-e1487763761966.png" group-title="Eventi Live",Gold Rush: Mine Rescue With Freddy & Juan Season 5, Episode 3 (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-313.php
 
 #EXTINF:-1 tvg-id="322" tvg-name="Secrets Declassified With David Duchovny Season 1, Episode 8 (04:00)" tvg-logo="https://www.tvinsider.com/wp-content/themes/tv/images/cal4.png" group-title="Eventi Live",Secrets Declassified With David Duchovny Season 1, Episode 8 (04:00)
@@ -1282,7 +1282,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="647" tvg-name="Hot 20 Countdown Episode 21 (15:00)" tvg-logo="https://s39499.pcdn.co/wp-content/uploads/2016/02/cmt-hot-20-countdown-celebrates-its-100th-episode-with-special-co-host-carrie-underwood-this-saturda.png" group-title="Eventi Live",Hot 20 Countdown Episode 21 (15:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-647.php
 
-#EXTINF:-1 tvg-id="313" tvg-name="Hard Truths of Conservation Season 3, Episode 9 (15:00)" tvg-logo="https://hardtruth.com/wp-content/uploads/2022/11/HT-Logo-Round-with-tagline.png" group-title="Eventi Live",Hard Truths of Conservation Season 3, Episode 9 (15:00)
+#EXTINF:-1 tvg-id="313" tvg-name="Hard Truths of Conservation Season 3, Episode 9 (15:00)" tvg-logo="https://www.gobourbon.com/wp-content/uploads/2024/03/Collection-min.png" group-title="Eventi Live",Hard Truths of Conservation Season 3, Episode 9 (15:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-313.php
 
 #EXTINF:-1 tvg-id="758" tvg-name="AMSOIL Championship Off Road (16:00)" tvg-logo="https://champoffroad.com/wp-content/uploads/2024_SCHEDULE_TILES_04_ERX-1.png" group-title="Eventi Live",AMSOIL Championship Off Road (16:00)
@@ -1294,7 +1294,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="769" tvg-name="Harlem Globetrotters: Play It Forward Season 3, Episode 22 (17:00)" tvg-logo="https://www.icegame.com/wp-content/uploads/logo_harlem-globetrotters.png" group-title="Eventi Live",Harlem Globetrotters: Play It Forward Season 3, Episode 22 (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-769.php
 
-#EXTINF:-1 tvg-id="769" tvg-name="Wild Child Season 5, Episode 22 (17:30)" tvg-logo="https://investinstirling.com/wp-content/uploads/2021/09/Wild-Child-Master-Logo-Strapline-Black.png" group-title="Eventi Live",Wild Child Season 5, Episode 22 (17:30)
+#EXTINF:-1 tvg-id="769" tvg-name="Wild Child Season 5, Episode 22 (17:30)" tvg-logo="https://age-verify.crucialcommerceapps.com/app/img/logo/Wild_Child_Logo_shop_1561447157.png" group-title="Eventi Live",Wild Child Season 5, Episode 22 (17:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-769.php
 
 #EXTINF:-1 tvg-id="767" tvg-name="Mission Unstoppable Season 6, Episode 22 (18:00)" tvg-logo="https://miro.medium.com/v2/resize:fit:1200/1*fpWIxAalfBX9bIiLfGfqMw.png" group-title="Eventi Live",Mission Unstoppable Season 6, Episode 22 (18:00)
@@ -1306,7 +1306,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="331" tvg-name="House Hunters International Season 129, Episode 17 (21:00)" tvg-logo="https://images.purevpn-tools.com/public/images/Best-shows-House-Hunters-International-HGTV-LP---BK.png" group-title="Eventi Live",House Hunters International Season 129, Episode 17 (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-331.php
 
-#EXTINF:-1 tvg-id="300" tvg-name="NASCAR Countdown Live Live (21:30)" tvg-logo="https://loodibee.com/wp-content/uploads/NASCAR-Logo.png" group-title="Eventi Live",NASCAR Countdown Live Live (21:30)
+#EXTINF:-1 tvg-id="300" tvg-name="NASCAR Countdown Live Live (21:30)" tvg-logo="https://b.fssta.com/uploads/application/leagues/logos/NASCARXfinity.png" group-title="Eventi Live",NASCAR Countdown Live Live (21:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-300.php
 
 #EXTINF:-1 tvg-id="280" tvg-name="NASCAR Countdown Live Live (21:30)" tvg-logo="https://loodibee.com/wp-content/uploads/NASCAR-Logo.png" group-title="Eventi Live",NASCAR Countdown Live Live (21:30)
@@ -1314,9 +1314,6 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 
 #EXTINF:-1 tvg-id="132" tvg-name="Cash: El peso del dinero VIP Season 1, Episode 6 (23:00)" tvg-logo="https://www.pngkey.com/png/full/493-4930874_bill-png-vector-money-logo-png.png" group-title="Eventi Live",Cash: El peso del dinero VIP Season 1, Episode 6 (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-132.php
-
-#EXTINF:-1 tvg-id="742" tvg-name="Nothing but Trailers Episode 18 • New (01:00)" tvg-logo="https://pnghq.com/wp-content/uploads/netflix-official-trailer-png-555-download-20546.png" group-title="Eventi Live",Nothing but Trailers Episode 18 • New (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-742.php
 
 #EXTINF:-1 tvg-id="762" tvg-name="The Mindset New (02:00)" tvg-logo="https://logocreator.io/wp-content/uploads/2023/12/Mindset.png" group-title="Eventi Live",The Mindset New (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-762.php
@@ -1345,34 +1342,34 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="665" tvg-name="Andrew Zimmern's Wild Game Kitchen Season 4, Episode 7 (03:00)" tvg-logo="https://andrewzimmern.com/wp-content/uploads/Badia-transparent-4x3-1-800x800.png" group-title="Eventi Live",Andrew Zimmern's Wild Game Kitchen Season 4, Episode 7 (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-665.php
 
-#EXTINF:-1 tvg-id="337" tvg-name="Say Yes to the Dress with Tan France Season 1, Episode 8 (03:00)" tvg-logo="https://ci4.googleusercontent.com/proxy/c28UtRJJ7ZbiAwUF-E3kkmFEdbYHzjFETIjWDYZD-8TH-YY_Mvdyxu0vQ8xYcu74C4bniv_QDxJ-2qBTLEsrsKJmW-nly5HFaZ9eysPVTixIaBNC3UqkLb_2JsncBswGQisuB_5DOPriDx4=s0-d-e1-ft#http://files.constantcontact.com/331c56b4701/b06b395b-f1e6-4539-baaf-6097a779cf5d.png" group-title="Eventi Live",Say Yes to the Dress with Tan France Season 1, Episode 8 (03:00)
+#EXTINF:-1 tvg-id="337" tvg-name="Say Yes to the Dress with Tan France Season 1, Episode 8 (03:00)" tvg-logo="https://rostov.yes-dress.ru/assets/icons/logo.png" group-title="Eventi Live",Say Yes to the Dress with Tan France Season 1, Episode 8 (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-337.php
 
 #EXTINF:-1 tvg-id="321" tvg-name="Jerrod Carmichael: Don't Be Gay New (04:00)" tvg-logo="https://resources.beecrowd.com/gallery/images/judge/login/04-min.png" group-title="Eventi Live",Jerrod Carmichael: Don't Be Gay New (04:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-321.php
 
-#EXTINF:-1 tvg-id="324" tvg-name="Who Killed the Councilman? New (04:00)" tvg-logo="https://councilmandavidmarks.com/wp-content/uploads/2022/12/Marks-logo_county5-01-1.png" group-title="Eventi Live",Who Killed the Councilman? New (04:00)
+#EXTINF:-1 tvg-id="324" tvg-name="Who Killed the Councilman? New (04:00)" tvg-logo="https://cdn.disasterdashboards.com/sites/default/files/2022-05/council_logo_small_dark_blue_0.png" group-title="Eventi Live",Who Killed the Councilman? New (04:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-324.php
 
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="597" tvg-name="Peru - Primera Division : Sport Boys vs Alianza Lima (03:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Sport Boys_vs_Alianza Lima.png" group-title="Eventi Live",Peru - Primera Division : Sport Boys vs Alianza Lima (03:00)
+#EXTINF:-1 tvg-id="597" tvg-name="Peru - Primera Division : Sport Boys vs Alianza Lima (03:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/sport-boys-logo.png" group-title="Eventi Live",Peru - Primera Division : Sport Boys vs Alianza Lima (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
 
 #EXTINF:-1 tvg-id="33" tvg-name="NWSL : Utah Royals vs Orlando Pride (03:30)" tvg-logo="https://www.mascotdb.com/sites/default/files/styles/large/public/logos/utah-royals.png?itok=3TwPvEK-" group-title="Eventi Live",NWSL : Utah Royals vs Orlando Pride (03:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
 
-#EXTINF:-1 tvg-id="31" tvg-name="Australia - A-League : Auckland vs Melbourne Victory (08:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Auckland_vs_Melbourne Victory.png" group-title="Eventi Live",Australia - A-League : Auckland vs Melbourne Victory (08:00)
+#EXTINF:-1 tvg-id="31" tvg-name="Australia - A-League : Auckland vs Melbourne Victory (08:00)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2021/04/university-of-auckland-logo-freelogovectors.net_.png" group-title="Eventi Live",Australia - A-League : Auckland vs Melbourne Victory (08:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
-#EXTINF:-1 tvg-id="1" tvg-name="Australia - A-League : Melbourne City vs Western United (11:35)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Melbourne City_vs_Western United.png" group-title="Eventi Live",Australia - A-League : Melbourne City vs Western United (11:35)
+#EXTINF:-1 tvg-id="1" tvg-name="Australia - A-League : Melbourne City vs Western United (11:35)" tvg-logo="https://clipart.info/images/ccovers/1503438206melbourne-city-fc-football-logo-png-.png" group-title="Eventi Live",Australia - A-League : Melbourne City vs Western United (11:35)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-1.php
 
-#EXTINF:-1 tvg-id="425" tvg-name="CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Mamelodi Sundowns_vs_Pyramids FC.png" group-title="Eventi Live",CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)
+#EXTINF:-1 tvg-id="425" tvg-name="CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)" tvg-logo="https://1.bp.blogspot.com/-Xy4Ei-W10Vs/X1a81QvlaVI/AAAAAAABBJw/clEE8cRHoiUPvVTwv5XwxLIEGGllpl2mACLcBGAsYHQ/s2048/Mamelodi%2BSundowns-AFS.png" group-title="Eventi Live",CAF Champions League : Mamelodi Sundowns vs Pyramids FC (15:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
 
-#EXTINF:-1 tvg-id="35" tvg-name="England - Championship : Sheffield United vs Sunderland (16:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Sheffield United_vs_Sunderland.png" group-title="Eventi Live",England - Championship : Sheffield United vs Sunderland (16:00)
+#EXTINF:-1 tvg-id="35" tvg-name="England - Championship : Sheffield United vs Sunderland (16:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/10/sheffield-united-logo-0.png" group-title="Eventi Live",England - Championship : Sheffield United vs Sunderland (16:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-35.php
 
 #EXTINF:-1 tvg-id="38" tvg-name="England - Championship : Sheffield United vs Sunderland (16:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/10/sheffield-united-logo-0.png" group-title="Eventi Live",England - Championship : Sheffield United vs Sunderland (16:00)
@@ -1381,46 +1378,46 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="910" tvg-name="England - Championship : Sheffield United vs Sunderland (16:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/10/sheffield-united-logo-0.png" group-title="Eventi Live",England - Championship : Sheffield United vs Sunderland (16:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
 
-#EXTINF:-1 tvg-id="550" tvg-name="Scotland - Scottish Cup : Aberdeen vs Celtic (16:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Aberdeen_vs_Celtic.png" group-title="Eventi Live",Scotland - Scottish Cup : Aberdeen vs Celtic (16:00)
+#EXTINF:-1 tvg-id="550" tvg-name="Scotland - Scottish Cup : Aberdeen vs Celtic (16:00)" tvg-logo="http://pluspng.com/img-png/aberdeen-fc-logo-png-aberdeen-fc-png-pluspng-com-1200-aberdeen-fc-png-1200.png" group-title="Eventi Live",Scotland - Scottish Cup : Aberdeen vs Celtic (16:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-550.php
 
-#EXTINF:-1 tvg-id="276" tvg-name="Spain - La Liga : Real Madrid vs Real Sociedad (16:15)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Real Madrid_vs_Real Sociedad.png" group-title="Eventi Live",Spain - La Liga : Real Madrid vs Real Sociedad (16:15)
+#EXTINF:-1 tvg-id="276" tvg-name="Spain - La Liga : Real Madrid vs Real Sociedad (16:15)" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Eventi Live",Spain - La Liga : Real Madrid vs Real Sociedad (16:15)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-276.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Dijon U18_vs_Rennes U18.png" group-title="Eventi Live",Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)
+#EXTINF:-1 tvg-id="758" tvg-name="Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)" tvg-logo="https://i.pinimg.com/originals/5e/51/87/5e5187139348337093e2ea501738e749.png" group-title="Eventi Live",Coupe Gambardella : Dijon U18 vs Rennes U18 (17:15)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
-#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Bologna vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Bologna_vs_Genoa.png" group-title="Eventi Live",Italy - Serie A : Bologna vs Genoa (18:00)
+#EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Bologna vs Genoa (18:00)" tvg-logo="http://vignette3.wikia.nocookie.net/calciopedia/images/7/78/Bologna_logo.png/revision/latest?cb=20120303090011" group-title="Eventi Live",Italy - Serie A : Bologna vs Genoa (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
-#EXTINF:-1 tvg-id="31" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Arsenal_vs_Barcelona.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
+#EXTINF:-1 tvg-id="31" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/arsenal-1-logo-png-transparent.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
-#EXTINF:-1 tvg-id="533" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="https://www.freepnglogos.com/uploads/arsenal-logo-png/arsenal-logo-png-transparent-svg-vector-5.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
+#EXTINF:-1 tvg-id="533" tvg-name="UEFA Women's Champions League : Arsenal vs Barcelona (18:00)" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c4df.png" group-title="Eventi Live",UEFA Women's Champions League : Arsenal vs Barcelona (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-533.php
 
-#EXTINF:-1 tvg-id="425" tvg-name="Super Lig : Göztepe vs Galatasaray (18:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Göztepe_vs_Galatasaray.png" group-title="Eventi Live",Super Lig : Göztepe vs Galatasaray (18:00)
+#EXTINF:-1 tvg-id="425" tvg-name="Super Lig : Göztepe vs Galatasaray (18:00)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/Goztepe-Logo.png" group-title="Eventi Live",Super Lig : Göztepe vs Galatasaray (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-425.php
 
-#EXTINF:-1 tvg-id="109" tvg-name="Spain - La Liga : Leganés vs Real Valladolid (18:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Leganés_vs_Real Valladolid.png" group-title="Eventi Live",Spain - La Liga : Leganés vs Real Valladolid (18:30)
+#EXTINF:-1 tvg-id="109" tvg-name="Spain - La Liga : Leganés vs Real Valladolid (18:30)" tvg-logo="https://assets.stickpng.com/thumbs/584ad55fb519ea740933a910.png" group-title="Eventi Live",Spain - La Liga : Leganés vs Real Valladolid (18:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-109.php
 
-#EXTINF:-1 tvg-id="110" tvg-name="Spain - La Liga : Espanyol vs Las Palmas (18:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Espanyol_vs_Las Palmas.png" group-title="Eventi Live",Spain - La Liga : Espanyol vs Las Palmas (18:30)
+#EXTINF:-1 tvg-id="110" tvg-name="Spain - La Liga : Espanyol vs Las Palmas (18:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/rcd-espanyol-de-barcelona-logo-png-transparent.png" group-title="Eventi Live",Spain - La Liga : Espanyol vs Las Palmas (18:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-110.php
 
-#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Juventud vs Torque (20:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Juventud_vs_Torque.png" group-title="Eventi Live",Uruguay - Primera Division : Juventud vs Torque (20:00)
+#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Juventud vs Torque (20:00)" tvg-logo="https://purepng.com/public/uploads/large/purepng.com-juventus-logojuventuslogojuventus-turin-logonew-21529676316hzqzr.png" group-title="Eventi Live",Uruguay - Primera Division : Juventud vs Torque (20:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
 
-#EXTINF:-1 tvg-id="316" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Arminia Bielefeld_vs_Stuttgart.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
+#EXTINF:-1 tvg-id="316" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/PTKwyrV8R9hnWqD/arminia-bielefeld-1985-1998-logo.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
-#EXTINF:-1 tvg-id="550" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.fotballnerd.no/wp-content/uploads/2020/09/1024px-Arminia_Bielefeld_logo.svg_.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
+#EXTINF:-1 tvg-id="550" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/PTKwyrV8R9hnWqD/arminia-bielefeld-1985-1998-logo.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-550.php
 
 #EXTINF:-1 tvg-id="877" tvg-name="DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)" tvg-logo="https://www.footballkitarchive.com/static/logos/PTKwyrV8R9hnWqD/arminia-bielefeld-1985-1998-logo.png" group-title="Eventi Live",DFB Pokal : Arminia Bielefeld vs Stuttgart (20:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-877.php
 
-#EXTINF:-1 tvg-id="759" tvg-name="USL Super League Soccer : Carolina Ascent FC vs Brooklyn FC (20:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Carolina Ascent FC_vs_Brooklyn FC.png" group-title="Eventi Live",USL Super League Soccer : Carolina Ascent FC vs Brooklyn FC (20:00)
+#EXTINF:-1 tvg-id="759" tvg-name="USL Super League Soccer : Carolina Ascent FC vs Brooklyn FC (20:00)" tvg-logo="https://www.carolinaascent.com/wp-content/uploads/sites/82/2024/03/CAROLINA_ASCENT_Logo.png" group-title="Eventi Live",USL Super League Soccer : Carolina Ascent FC vs Brooklyn FC (20:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-759.php
 
 #EXTINF:-1 tvg-id="877" tvg-name="Italy - Serie A : Milan vs Monza (20:45)" tvg-logo="https://logodetimes.com/times/associazione-calcio-milan/associazione-calcio-milan-4096.png" group-title="Eventi Live",Italy - Serie A : Milan vs Monza (20:45)
@@ -1429,28 +1426,28 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="910" tvg-name="Italy - Serie A : Milan vs Monza (20:45)" tvg-logo="https://logodetimes.com/times/associazione-calcio-milan/associazione-calcio-milan-4096.png" group-title="Eventi Live",Italy - Serie A : Milan vs Monza (20:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
 
-#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Everton vs Cobresal (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Everton_vs_Cobresal.png" group-title="Eventi Live",Chile - Primera Division : Everton vs Cobresal (21:00)
+#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Everton vs Cobresal (21:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/04/everton-logo-escudo.png" group-title="Eventi Live",Chile - Primera Division : Everton vs Cobresal (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
 
-#EXTINF:-1 tvg-id="151" tvg-name="Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Deportivo Alavés_vs_Osasuna.png" group-title="Eventi Live",Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)
+#EXTINF:-1 tvg-id="151" tvg-name="Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png" group-title="Eventi Live",Spain - La Liga : Deportivo Alavés vs Osasuna (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-151.php
 
-#EXTINF:-1 tvg-id="153" tvg-name="Spain - La Liga : Getafe vs Celta de Vigo (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Getafe_vs_Celta de Vigo.png" group-title="Eventi Live",Spain - La Liga : Getafe vs Celta de Vigo (21:00)
+#EXTINF:-1 tvg-id="153" tvg-name="Spain - La Liga : Getafe vs Celta de Vigo (21:00)" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/10/Logo-Getafe-FC.png" group-title="Eventi Live",Spain - La Liga : Getafe vs Celta de Vigo (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-153.php
 
-#EXTINF:-1 tvg-id="154" tvg-name="Spain - La Liga : Rayo Vallecano vs Mallorca (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Rayo Vallecano_vs_Mallorca.png" group-title="Eventi Live",Spain - La Liga : Rayo Vallecano vs Mallorca (21:00)
+#EXTINF:-1 tvg-id="154" tvg-name="Spain - La Liga : Rayo Vallecano vs Mallorca (21:00)" tvg-logo="https://logodetimes.com/times/rayo-vallecano/logo-rayo-vallecano-4096.png" group-title="Eventi Live",Spain - La Liga : Rayo Vallecano vs Mallorca (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-154.php
 
-#EXTINF:-1 tvg-id="66" tvg-name="USL Championship : Detroit City vs Charleston Battery (22:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Detroit City_vs_Charleston Battery.png" group-title="Eventi Live",USL Championship : Detroit City vs Charleston Battery (22:00)
+#EXTINF:-1 tvg-id="66" tvg-name="USL Championship : Detroit City vs Charleston Battery (22:00)" tvg-logo="https://images.vexels.com/media/users/3/144074/isolated/preview/57cf2c020dabc18c7b500d0c2f911085-detroit-skyline-badge.png" group-title="Eventi Live",USL Championship : Detroit City vs Charleston Battery (22:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-66.php
 
-#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Peñarol vs Plaza Colonia (22:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Peñarol_vs_Plaza Colonia.png" group-title="Eventi Live",Uruguay - Primera Division : Peñarol vs Plaza Colonia (22:30)
+#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Peñarol vs Plaza Colonia (22:30)" tvg-logo="https://logodetimes.com/times/penarol/logo-penarol-4096.png" group-title="Eventi Live",Uruguay - Primera Division : Peñarol vs Plaza Colonia (22:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
 
-#EXTINF:-1 tvg-id="54" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/San Diego_vs_LA Galaxy.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
+#EXTINF:-1 tvg-id="54" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/san-diego-padres-logo-0.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-54.php
 
-#EXTINF:-1 tvg-id="768" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/b790789/2147483647/strip/true/crop/4000x4000+0+0/resize/1200x1200!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2Fc2%2F5a7f7e6748bdbda2abdca2d19251%2Fsdfc-crest-chrome.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
+#EXTINF:-1 tvg-id="768" tvg-name="Major League Soccer : San Diego vs LA Galaxy (22:45)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/10/san-diego-padres-logo-0.png" group-title="Eventi Live",Major League Soccer : San Diego vs LA Galaxy (22:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-768.php
 
 #EXTINF:-1 tvg-id="34" tvg-name="NWSL : Houston Dash vs Bay FC (23:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/houston-dash.png" group-title="Eventi Live",NWSL : Houston Dash vs Bay FC (23:00)
@@ -1459,28 +1456,22 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="910" tvg-name="NWSL : Houston Dash vs Bay FC (23:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/houston-dash.png" group-title="Eventi Live",NWSL : Houston Dash vs Bay FC (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
 
-#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Colo-Colo vs Unión Española (23:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Colo-Colo_vs_Unión Española.png" group-title="Eventi Live",Chile - Primera Division : Colo-Colo vs Unión Española (23:30)
+#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Colo-Colo vs Unión Española (23:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/IpGqhVvBx7frEmA/colo-colo-1980-logo.png" group-title="Eventi Live",Chile - Primera Division : Colo-Colo vs Unión Española (23:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
 
-#EXTINF:-1 tvg-id="388" tvg-name="Argentina - Primera División : Independiente vs Huracán (23:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Independiente_vs_Huracán.png" group-title="Eventi Live",Argentina - Primera División : Independiente vs Huracán (23:30)
+#EXTINF:-1 tvg-id="388" tvg-name="Argentina - Primera División : Independiente vs Huracán (23:30)" tvg-logo="https://logodetimes.com/times/club-atletico-independiente/club-atletico-independiente-2048.png" group-title="Eventi Live",Argentina - Primera División : Independiente vs Huracán (23:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-388.php
 
-#EXTINF:-1 tvg-id="597" tvg-name="Uruguay - Primera Division : Defensor Sporting vs Cerro Largo (01:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Defensor Sporting_vs_Cerro Largo.png" group-title="Eventi Live",Uruguay - Primera Division : Defensor Sporting vs Cerro Largo (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-597.php
-
-#EXTINF:-1 tvg-id="910" tvg-name="CONCACAF W Champions Cup Third Place Match : América vs Portland Thorns (01:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/América_vs_Portland Thorns.png" group-title="Eventi Live",CONCACAF W Champions Cup Third Place Match : América vs Portland Thorns (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-910.php
-
-#EXTINF:-1 tvg-id="325" tvg-name="NWSL : Chicago Red Stars vs Kansas City Current (01:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Chicago Red Stars_vs_Kansas City Current.png" group-title="Eventi Live",NWSL : Chicago Red Stars vs Kansas City Current (01:30)
+#EXTINF:-1 tvg-id="325" tvg-name="NWSL : Chicago Red Stars vs Kansas City Current (01:30)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Chicago_Red_Stars_2017.png/revision/latest?cb=20181128172827" group-title="Eventi Live",NWSL : Chicago Red Stars vs Kansas City Current (01:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
 
-#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Coquimbo Unido vs Palestino (02:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Coquimbo Unido_vs_Palestino.png" group-title="Eventi Live",Chile - Primera Division : Coquimbo Unido vs Palestino (02:00)
+#EXTINF:-1 tvg-id="642" tvg-name="Chile - Primera Division : Coquimbo Unido vs Palestino (02:00)" tvg-logo="https://i.pinimg.com/originals/e5/83/c9/e583c9cc37b48447a609e5328514e368.png" group-title="Eventi Live",Chile - Primera Division : Coquimbo Unido vs Palestino (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-642.php
 
-#EXTINF:-1 tvg-id="325" tvg-name="NWSL : Angel City vs Racing Louisville FC (04:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Angel City_vs_Racing Louisville FC.png" group-title="Eventi Live",NWSL : Angel City vs Racing Louisville FC (04:00)
+#EXTINF:-1 tvg-id="325" tvg-name="NWSL : Angel City vs Racing Louisville FC (04:00)" tvg-logo="https://www.pngmart.com/files/22/Angel-City-FC-PNG.png" group-title="Eventi Live",NWSL : Angel City vs Racing Louisville FC (04:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
 
-#EXTINF:-1 tvg-id="308" tvg-name="CONCACAF W Champions Cup Final : Tigres UANL vs NJ/NY Gotham FC (04:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Tigres UANL_vs_NJ/NY Gotham FC.png" group-title="Eventi Live",CONCACAF W Champions Cup Final : Tigres UANL vs NJ/NY Gotham FC (04:00)
+#EXTINF:-1 tvg-id="308" tvg-name="CONCACAF W Champions Cup Final : Tigres UANL vs NJ/NY Gotham FC (04:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/tigres-de-la-uanl-2-logo-png-transparent.png" group-title="Eventi Live",CONCACAF W Champions Cup Final : Tigres UANL vs NJ/NY Gotham FC (04:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
 
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
@@ -1501,10 +1492,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="577" tvg-name="Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Formula 3 : Tag Heuer Monaco Grand Prix - Sprint Race (10:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
-#EXTINF:-1 tvg-id="32" tvg-name="MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)
+#EXTINF:-1 tvg-id="32" tvg-name="MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)
+#EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Storbritanniens Grand Prix Free Practice 2 (10:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="32" tvg-name="Moto3 : Storbritanniens Grand Prix Free Practice 2 (10:35)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prix Free Practice 2 (10:35)
@@ -1513,7 +1504,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Storbritanniens Grand Prix Free Practice 2 (10:35)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Moto3 : Storbritanniens Grand Prix Free Practice 2 (10:35)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="32" tvg-name="Moto2 : Storbritanniens Grand Prix Free Practice 2 (11:15)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Free Practice 2 (11:15)
+#EXTINF:-1 tvg-id="32" tvg-name="Moto2 : Storbritanniens Grand Prix Free Practice 2 (11:15)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Free Practice 2 (11:15)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
 #EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prix Free Practice 2 (11:15)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Free Practice 2 (11:15)
@@ -1543,7 +1534,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="32" tvg-name="Moto2 : Storbritanniens Grand Prix Qualifying (15:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Qualifying (15:40)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prix Qualifying (15:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Qualifying (15:40)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto2 : Storbritanniens Grand Prix Qualifying (15:40)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Moto2 : Storbritanniens Grand Prix Qualifying (15:40)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="60" tvg-name="Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Tag Heuer Monaco Grand Prix - Qualifying (16:00)
@@ -1609,19 +1600,19 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-name="Am. Football" group-title="Eventi Live",--- Am. Football ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-name="UFL : San Antonio Brahmas vs St. Louis BattleHawks (02:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/San Antonio Brahmas_vs_St. Louis BattleHawks.png" group-title="Eventi Live",UFL : San Antonio Brahmas vs St. Louis BattleHawks (02:00)
+#EXTINF:-1 tvg-id="54" tvg-name="UFL : San Antonio Brahmas vs St. Louis BattleHawks (02:00)" tvg-logo="https://npr.brightspotcdn.com/dims4/default/b0719ea/2147483647/strip/true/crop/1501x1501+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fb3%2F2bd9fb2646a18e8ca9da4281d621%2Fsanantonio-brahmas-mastersheet-brahma-lockup.png" group-title="Eventi Live",UFL : San Antonio Brahmas vs St. Louis BattleHawks (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-54.php
 
 #EXTINF:-1 tvg-id="768" tvg-name="UFL : San Antonio Brahmas vs St. Louis BattleHawks (02:00)" tvg-logo="https://npr.brightspotcdn.com/dims4/default/b0719ea/2147483647/strip/true/crop/1501x1501+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fb3%2F2bd9fb2646a18e8ca9da4281d621%2Fsanantonio-brahmas-mastersheet-brahma-lockup.png" group-title="Eventi Live",UFL : San Antonio Brahmas vs St. Louis BattleHawks (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-768.php
 
-#EXTINF:-1 tvg-id="51" tvg-name="UFL : Memphis Showboats vs Dallas Renegades (18:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Memphis Showboats_vs_Dallas Renegades.png" group-title="Eventi Live",UFL : Memphis Showboats vs Dallas Renegades (18:00)
+#EXTINF:-1 tvg-id="51" tvg-name="UFL : Memphis Showboats vs Dallas Renegades (18:00)" tvg-logo="https://b.fssta.com/uploads/application/usfl/team-logos/Showboats-alternate.vresize.350.350.medium.1.png" group-title="Eventi Live",UFL : Memphis Showboats vs Dallas Renegades (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-51.php
 
 #EXTINF:-1 tvg-id="766" tvg-name="UFL : Memphis Showboats vs Dallas Renegades (18:00)" tvg-logo="https://b.fssta.com/uploads/application/usfl/team-logos/Showboats-alternate.vresize.350.350.medium.1.png" group-title="Eventi Live",UFL : Memphis Showboats vs Dallas Renegades (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-766.php
 
-#EXTINF:-1 tvg-id="51" tvg-name="UFL : Birmingham Stallions vs Michigan Panthers (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Birmingham Stallions_vs_Michigan Panthers.png" group-title="Eventi Live",UFL : Birmingham Stallions vs Michigan Panthers (21:00)
+#EXTINF:-1 tvg-id="51" tvg-name="UFL : Birmingham Stallions vs Michigan Panthers (21:00)" tvg-logo="https://b.fssta.com/uploads/application/usfl/team-logos/Stallions.vresize.350.350.medium.1.png" group-title="Eventi Live",UFL : Birmingham Stallions vs Michigan Panthers (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-51.php
 
 #EXTINF:-1 tvg-id="766" tvg-name="UFL : Birmingham Stallions vs Michigan Panthers (21:00)" tvg-logo="https://b.fssta.com/uploads/application/usfl/team-logos/Stallions.vresize.350.350.medium.1.png" group-title="Eventi Live",UFL : Birmingham Stallions vs Michigan Panthers (21:00)
@@ -1630,7 +1621,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-name="Aussie rules" group-title="Eventi Live",--- Aussie rules ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="758" tvg-name="AFL : Carlton Blues vs Greater Western Sydney (04:35)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Carlton Blues_vs_Greater Western Sydney.png" group-title="Eventi Live",AFL : Carlton Blues vs Greater Western Sydney (04:35)
+#EXTINF:-1 tvg-id="758" tvg-name="AFL : Carlton Blues vs Greater Western Sydney (04:35)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Carlton_FC_Logo_2020.svg/1200px-Carlton_FC_Logo_2020.svg.png" group-title="Eventi Live",AFL : Carlton Blues vs Greater Western Sydney (04:35)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
 #EXTINF:-1 tvg-id="32" tvg-name="AFL : Carlton Blues vs Greater Western Sydney (04:35)" tvg-logo="https://cdn.shopify.com/s/files/1/0503/2922/3321/products/b58ce7b99582c961375527c3c6b27ebb_d98ec41f-c2ce-43bf-84e1-96f9d2f5547d_1024x.png?v=1660978869" group-title="Eventi Live",AFL : Carlton Blues vs Greater Western Sydney (04:35)
@@ -1642,7 +1633,7 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="33" tvg-name="AFL : Hawthorn Hawks vs Brisbane Lions (08:15)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/09/Hawthorn-Hawks-Logo-Small.png" group-title="Eventi Live",AFL : Hawthorn Hawks vs Brisbane Lions (08:15)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="AFL : Fremantle Dockers vs Port Adelaide Power (12:10)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Fremantle Dockers_vs_Port Adelaide Power.png" group-title="Eventi Live",AFL : Fremantle Dockers vs Port Adelaide Power (12:10)
+#EXTINF:-1 tvg-id="758" tvg-name="AFL : Fremantle Dockers vs Port Adelaide Power (12:10)" tvg-logo="https://aussiekit.co.uk/wp-content/uploads/2018/02/1200px-Fremantle_FC_logo.svg.png" group-title="Eventi Live",AFL : Fremantle Dockers vs Port Adelaide Power (12:10)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
 #EXTINF:-1 tvg-id="31" tvg-name="AFL : Fremantle Dockers vs Port Adelaide Power (12:10)" tvg-logo="https://aussiekit.co.uk/wp-content/uploads/2018/02/1200px-Fremantle_FC_logo.svg.png" group-title="Eventi Live",AFL : Fremantle Dockers vs Port Adelaide Power (12:10)
@@ -1657,22 +1648,22 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="385" tvg-name="College Baseball SEC Tournament: TBA vs LSU (02:00)" tvg-logo="https://www.tba.com/wp-content/uploads/tba-logo.png" group-title="Eventi Live",College Baseball SEC Tournament: TBA vs LSU (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-385.php
 
-#EXTINF:-1 tvg-id="316" tvg-name="College Softball NCAA Tournament: Ole Miss vs Arkansas (02:00)" tvg-logo="https://www.pngmart.com/files/23/Ole-Miss-Logo-PNG-Photo.png" group-title="Eventi Live",College Softball NCAA Tournament: Ole Miss vs Arkansas (02:00)
+#EXTINF:-1 tvg-id="316" tvg-name="College Softball NCAA Tournament: Ole Miss vs Arkansas (02:00)" tvg-logo="https://loodibee.com/wp-content/uploads/Ole_Miss_Rebels_logo.png" group-title="Eventi Live",College Softball NCAA Tournament: Ole Miss vs Arkansas (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Texas vs Clemson (03:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Texas_vs_Clemson.png" group-title="Eventi Live",College Softball NCAA Tournament: Texas vs Clemson (03:00)
+#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament: Texas vs Clemson (03:00)" tvg-logo="https://www.pngmart.com/files/23/Texas-Logo-PNG-Pic.png" group-title="Eventi Live",College Softball NCAA Tournament: Texas vs Clemson (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="316" tvg-name="College Softball NCAA Tournament: Liberty vs Oregon (04:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Liberty_vs_Oregon.png" group-title="Eventi Live",College Softball NCAA Tournament: Liberty vs Oregon (04:00)
+#EXTINF:-1 tvg-id="316" tvg-name="College Softball NCAA Tournament: Liberty vs Oregon (04:00)" tvg-logo="https://pnghq.com/wp-content/uploads/liberty-logo-png-transparent-image-download-20061-1024x923.png" group-title="Eventi Live",College Softball NCAA Tournament: Liberty vs Oregon (04:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
-#EXTINF:-1 tvg-id="920" tvg-name="MLB : Houston Astros vs Seattle Mariners (02:10)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Houston Astros_vs_Seattle Mariners.png" group-title="Eventi Live",MLB : Houston Astros vs Seattle Mariners (02:10)
+#EXTINF:-1 tvg-id="920" tvg-name="MLB : Houston Astros vs Seattle Mariners (02:10)" tvg-logo="https://purepng.com/public/uploads/large/houston-astros-logo-ddj.png" group-title="Eventi Live",MLB : Houston Astros vs Seattle Mariners (02:10)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-920.php
 
-#EXTINF:-1 tvg-id="763" tvg-name="MLB : Colorado Rockies vs New York Yankees (02:40)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Colorado Rockies_vs_New York Yankees.png" group-title="Eventi Live",MLB : Colorado Rockies vs New York Yankees (02:40)
+#EXTINF:-1 tvg-id="763" tvg-name="MLB : Colorado Rockies vs New York Yankees (02:40)" tvg-logo="https://www.pngplay.com/wp-content/uploads/14/Colorado-Rockies-Logo-Transparent-Background.png" group-title="Eventi Live",MLB : Colorado Rockies vs New York Yankees (02:40)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-763.php
 
-#EXTINF:-1 tvg-id="755" tvg-name="MLB : Oakland Athletics vs Philadelphia Phillies (04:05)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Oakland Athletics_vs_Philadelphia Phillies.png" group-title="Eventi Live",MLB : Oakland Athletics vs Philadelphia Phillies (04:05)
+#EXTINF:-1 tvg-id="755" tvg-name="MLB : Oakland Athletics vs Philadelphia Phillies (04:05)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1200px-Oakland_A%27s_logo.svg.png" group-title="Eventi Live",MLB : Oakland Athletics vs Philadelphia Phillies (04:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-755.php
 
 #EXTINF:-1 tvg-id="399" tvg-name="MLB : Oakland Athletics vs Philadelphia Phillies (04:05)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1200px-Oakland_A%27s_logo.svg.png" group-title="Eventi Live",MLB : Oakland Athletics vs Philadelphia Phillies (04:05)
@@ -1684,16 +1675,16 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Florida vs. Georgia (17:00)" tvg-logo="http://getdrawings.com/vectors/florida-state-seal-vector-18.png" group-title="Eventi Live",College Softball NCAA Tournament: Florida vs. Georgia (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
-#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: South Carolina vs UCLA (19:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/South Carolina_vs_UCLA.png" group-title="Eventi Live",College Softball NCAA Tournament: South Carolina vs UCLA (19:00)
+#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: South Carolina vs UCLA (19:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/south-carolina-logo.png" group-title="Eventi Live",College Softball NCAA Tournament: South Carolina vs UCLA (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
-#EXTINF:-1 tvg-id="385" tvg-name="College Baseball SEC Tournament, First Semifinal: Tennessee vs. Vanderbilt (19:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Tennessee_vs_Vanderbilt.png" group-title="Eventi Live",College Baseball SEC Tournament, First Semifinal: Tennessee vs. Vanderbilt (19:00)
+#EXTINF:-1 tvg-id="385" tvg-name="College Baseball SEC Tournament, First Semifinal: Tennessee vs. Vanderbilt (19:00)" tvg-logo="http://logonoid.com/images/university-of-tennessee-logo.png" group-title="Eventi Live",College Baseball SEC Tournament, First Semifinal: Tennessee vs. Vanderbilt (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-385.php
 
-#EXTINF:-1 tvg-id="664" tvg-name="College Baseball ACC Tournament, First Semifinal: Clemson vs. Georgia Tech (19:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Clemson_vs_Georgia Tech.png" group-title="Eventi Live",College Baseball ACC Tournament, First Semifinal: Clemson vs. Georgia Tech (19:00)
+#EXTINF:-1 tvg-id="664" tvg-name="College Baseball ACC Tournament, First Semifinal: Clemson vs. Georgia Tech (19:00)" tvg-logo="https://www.pinclipart.com/picdir/big/357-3573593_clemson-clip-art.png" group-title="Eventi Live",College Baseball ACC Tournament, First Semifinal: Clemson vs. Georgia Tech (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-664.php
 
-#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Oklahoma vs Alabama (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Oklahoma_vs_Alabama.png" group-title="Eventi Live",College Softball NCAA Tournament: Oklahoma vs Alabama (21:00)
+#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Oklahoma vs Alabama (21:00)" tvg-logo="https://logodix.com/logo/660825.png" group-title="Eventi Live",College Softball NCAA Tournament: Oklahoma vs Alabama (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
 #EXTINF:-1 tvg-id="397" tvg-name="College Baseball : Big Ten Tournament, First Semifinal: Teams TBA (21:00)" tvg-logo="https://logodix.com/logo/706088.png" group-title="Eventi Live",College Baseball : Big Ten Tournament, First Semifinal: Teams TBA (21:00)
@@ -1702,32 +1693,17 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="762" tvg-name="Minor League Baseball : Durham Bulls vs Worcester Red Sox (22:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Durham_Bulls_logo.svg/219px-Durham_Bulls_logo.svg.png" group-title="Eventi Live",Minor League Baseball : Durham Bulls vs Worcester Red Sox (22:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-762.php
 
-#EXTINF:-1 tvg-id="316" tvg-name="College Baseball WCC Tournament, Championship: Teams TBA (22:00)" tvg-logo="https://content.sportslogos.net/logos/32/723/full/lsu_tigers_logo_champion_2023_sportslogosnet-3286.png" group-title="Eventi Live",College Baseball WCC Tournament, Championship: Teams TBA (22:00)
+#EXTINF:-1 tvg-id="316" tvg-name="College Baseball WCC Tournament, Championship: Teams TBA (22:00)" tvg-logo="https://content.sportslogos.net/logos/34/834/full/south_carolina_gamecocks_logo_champion_2011_sportslogosnet-5373.png" group-title="Eventi Live",College Baseball WCC Tournament, Championship: Teams TBA (22:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
 #EXTINF:-1 tvg-id="385" tvg-name="College Baseball SEC Tournament, Second Semifinal: Teams TBA (22:30)" tvg-logo="https://www.pikpng.com/pngl/b/267-2671683_sec-baseball-tournament-2017-logo-clipart.png" group-title="Eventi Live",College Baseball SEC Tournament, Second Semifinal: Teams TBA (22:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-385.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="College Baseball Big East Tournament, Championship: Teams TBA (23:00)" tvg-logo="https://assets.primesport.com/prod/images/BEMBBT23_Dates_RGB.png" group-title="Eventi Live",College Baseball Big East Tournament, Championship: Teams TBA (23:00)
+#EXTINF:-1 tvg-id="758" tvg-name="College Baseball Big East Tournament, Championship: Teams TBA (23:00)" tvg-logo="https://assets.primesport.com/prod/images/Big East Basketball Logo 2020.png" group-title="Eventi Live",College Baseball Big East Tournament, Championship: Teams TBA (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
-#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Tennessee vs. Nebraska (23:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Tennessee_vs_Nebraska.png" group-title="Eventi Live",College Softball NCAA Tournament: Tennessee vs. Nebraska (23:00)
+#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament: Tennessee vs. Nebraska (23:00)" tvg-logo="https://logonoid.com/images/university-of-tennessee-logo.png" group-title="Eventi Live",College Softball NCAA Tournament: Tennessee vs. Nebraska (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
-
-#EXTINF:-1 tvg-id="764" tvg-name="Minor League Baseball Sacramento River Cats vs Oklahoma City Comets (01:00)" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Sacramento-River-Cats-Transparent-PNG.png" group-title="Eventi Live",Minor League Baseball Sacramento River Cats vs Oklahoma City Comets (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-764.php
-
-#EXTINF:-1 tvg-id="397" tvg-name="College Baseball : Big Ten Tournament, Second Semifinal: Teams TBA (01:00)" tvg-logo="https://logodix.com/logo/706088.png" group-title="Eventi Live",College Baseball : Big Ten Tournament, Second Semifinal: Teams TBA (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-397.php
-
-#EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament, Super Regional: Teams TBA (01:00)" tvg-logo="https://i1.wp.com/sportsenthusiasts.net/wp-content/uploads/2015/05/2015-WCWS.png" group-title="Eventi Live",College Softball NCAA Tournament, Super Regional: Teams TBA (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
-
-#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament, Super Regional: Teams TBA (01:00)" tvg-logo="https://i1.wp.com/sportsenthusiasts.net/wp-content/uploads/2015/05/2015-WCWS.png" group-title="Eventi Live",College Softball NCAA Tournament, Super Regional: Teams TBA (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
-
-#EXTINF:-1 tvg-id="316" tvg-name="College Baseball Big 12 Tournament, Championship: Teams TBA (01:00)" tvg-logo="https://static-nw-production.sportingnews.com/media/menu-item-logos/big-12/Big12.png" group-title="Eventi Live",College Baseball Big 12 Tournament, Championship: Teams TBA (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-316.php
 
 #EXTINF:-1 tvg-id="39" tvg-name="College Baseball Big East Tournament, Championship: Teams TBA (02:30)" tvg-logo="https://assets.primesport.com/prod/images/BEMBBT23_Dates_RGB.png" group-title="Eventi Live",College Baseball Big East Tournament, Championship: Teams TBA (02:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
@@ -1735,13 +1711,13 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="44" tvg-name="College Softball NCAA Tournament, Super Regional: Teams TBA (03:00)" tvg-logo="https://teams.athletx.com/storage/uploads/1694636195_GDUSA Super Regional Logo 12-22 (1).png" group-title="Eventi Live",College Softball NCAA Tournament, Super Regional: Teams TBA (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-44.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament, Super Regional: Teams TBA (03:00)" tvg-logo="https://i1.wp.com/sportsenthusiasts.net/wp-content/uploads/2015/05/2015-WCWS.png" group-title="Eventi Live",College Softball NCAA Tournament, Super Regional: Teams TBA (03:00)
+#EXTINF:-1 tvg-id="45" tvg-name="College Softball NCAA Tournament, Super Regional: Teams TBA (03:00)" tvg-logo="https://teams.athletx.com/storage/uploads/1694636195_GDUSA Super Regional Logo 12-22 (1).png" group-title="Eventi Live",College Softball NCAA Tournament, Super Regional: Teams TBA (03:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="753" tvg-name="MLB : Washington Nationals vs San Francisco Giants (22:05)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Washington Nationals_vs_San Francisco Giants.png" group-title="Eventi Live",MLB : Washington Nationals vs San Francisco Giants (22:05)
+#EXTINF:-1 tvg-id="753" tvg-name="MLB : Washington Nationals vs San Francisco Giants (22:05)" tvg-logo="https://purepng.com/public/uploads/large/washington-nationals-p3l.png" group-title="Eventi Live",MLB : Washington Nationals vs San Francisco Giants (22:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-753.php
 
-#EXTINF:-1 tvg-id="31" tvg-name="MLB : Boston Red Sox vs Baltimore Orioles (22:10)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Boston Red Sox_vs_Baltimore Orioles.png" group-title="Eventi Live",MLB : Boston Red Sox vs Baltimore Orioles (22:10)
+#EXTINF:-1 tvg-id="31" tvg-name="MLB : Boston Red Sox vs Baltimore Orioles (22:10)" tvg-logo="https://www.pinclipart.com/picdir/big/241-2419461_logos-and-uniforms-of-the-boston-red-sox.png" group-title="Eventi Live",MLB : Boston Red Sox vs Baltimore Orioles (22:10)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
 #EXTINF:-1 tvg-id="39" tvg-name="MLB : Boston Red Sox vs Baltimore Orioles (22:10)" tvg-logo="https://www.pinclipart.com/picdir/big/241-2419461_logos-and-uniforms-of-the-boston-red-sox.png" group-title="Eventi Live",MLB : Boston Red Sox vs Baltimore Orioles (22:10)
@@ -1759,13 +1735,13 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="763" tvg-name="MLB : Colorado Rockies vs New York Yankees (22:10)" tvg-logo="https://www.pngplay.com/wp-content/uploads/14/Colorado-Rockies-Logo-Transparent-Background.png" group-title="Eventi Live",MLB : Colorado Rockies vs New York Yankees (22:10)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-763.php
 
-#EXTINF:-1 tvg-id="54" tvg-name="MLB : New York Mets vs Los Angeles Dodgers (01:05)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/New York Mets_vs_Los Angeles Dodgers.png" group-title="Eventi Live",MLB : New York Mets vs Los Angeles Dodgers (01:05)
+#EXTINF:-1 tvg-id="54" tvg-name="MLB : New York Mets vs Los Angeles Dodgers (01:05)" tvg-logo="https://vm-storage.nyc3.digitaloceanspaces.com/2021/11/new-york-mets-11.png" group-title="Eventi Live",MLB : New York Mets vs Los Angeles Dodgers (01:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-54.php
 
-#EXTINF:-1 tvg-id="768" tvg-name="MLB : New York Mets vs Los Angeles Dodgers (01:05)" tvg-logo="https://vm-storage.nyc3.digitaloceanspaces.com/2021/11/new-york-mets-11.png" group-title="Eventi Live",MLB : New York Mets vs Los Angeles Dodgers (01:05)
+#EXTINF:-1 tvg-id="768" tvg-name="MLB : New York Mets vs Los Angeles Dodgers (01:05)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1200px-New_York_Mets.svg.png" group-title="Eventi Live",MLB : New York Mets vs Los Angeles Dodgers (01:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-768.php
 
-#EXTINF:-1 tvg-id="32" tvg-name="MLB : New York Mets vs Los Angeles Dodgers (01:05)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1200px-New_York_Mets.svg.png" group-title="Eventi Live",MLB : New York Mets vs Los Angeles Dodgers (01:05)
+#EXTINF:-1 tvg-id="32" tvg-name="MLB : New York Mets vs Los Angeles Dodgers (01:05)" tvg-logo="https://vm-storage.nyc3.digitaloceanspaces.com/2021/11/new-york-mets-11.png" group-title="Eventi Live",MLB : New York Mets vs Los Angeles Dodgers (01:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-32.php
 
 #EXTINF:-1 tvg-id="755" tvg-name="MLB : Oakland Athletics vs Philadelphia Phillies (04:05)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1200px-Oakland_A%27s_logo.svg.png" group-title="Eventi Live",MLB : Oakland Athletics vs Philadelphia Phillies (04:05)
@@ -1774,16 +1750,16 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="777" tvg-name="MLB : Oakland Athletics vs Philadelphia Phillies (04:05)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1200px-Oakland_A%27s_logo.svg.png" group-title="Eventi Live",MLB : Oakland Athletics vs Philadelphia Phillies (04:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-777.php
 
-#EXTINF:-1 tvg-id="399" tvg-name="MLB : Los Angeles Angels vs Miami Marlins (04:07)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Los Angeles Angels_vs_Miami Marlins.png" group-title="Eventi Live",MLB : Los Angeles Angels vs Miami Marlins (04:07)
+#EXTINF:-1 tvg-id="399" tvg-name="MLB : Los Angeles Angels vs Miami Marlins (04:07)" tvg-logo="https://content.sportslogos.net/logos/53/6521/full/los_angeles_angels_logo_alternate_2022_sportslogosnet-1339.png" group-title="Eventi Live",MLB : Los Angeles Angels vs Miami Marlins (04:07)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-399.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="325" tvg-name="WNBA Basketball : Phoenix Mercury vs Seattle Storm (04:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Phoenix Mercury_vs_Seattle Storm.png" group-title="Eventi Live",WNBA Basketball : Phoenix Mercury vs Seattle Storm (04:00)
+#EXTINF:-1 tvg-id="325" tvg-name="WNBA Basketball : Phoenix Mercury vs Seattle Storm (04:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/phoenix-mercury-logo-black-and-white.png" group-title="Eventi Live",WNBA Basketball : Phoenix Mercury vs Seattle Storm (04:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-325.php
 
-#EXTINF:-1 tvg-id="31" tvg-name="NBA : Indiana Pacers vs New York Knicks (02:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Indiana Pacers_vs_New York Knicks.png" group-title="Eventi Live",NBA : Indiana Pacers vs New York Knicks (02:00)
+#EXTINF:-1 tvg-id="31" tvg-name="NBA : Indiana Pacers vs New York Knicks (02:00)" tvg-logo="https://content.sportslogos.net/logos/6/224/full/3222_indiana_pacers-alternate-2020.png" group-title="Eventi Live",NBA : Indiana Pacers vs New York Knicks (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-31.php
 
 #EXTINF:-1 tvg-id="338" tvg-name="NBA : Indiana Pacers vs New York Knicks (02:00)" tvg-logo="https://content.sportslogos.net/logos/6/224/full/3222_indiana_pacers-alternate-2020.png" group-title="Eventi Live",NBA : Indiana Pacers vs New York Knicks (02:00)
@@ -1795,28 +1771,28 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="404" tvg-name="Africa League : Mbb vs. Nairobi City Thunder (14:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mbb-logo-black-and-white.png" group-title="Eventi Live",Africa League : Mbb vs. Nairobi City Thunder (14:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-404.php
 
-#EXTINF:-1 tvg-id="404" tvg-name="Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army (17:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Al Ahli Tripoli_vs_Rwandan Patriotic Army.png" group-title="Eventi Live",Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army (17:30)
+#EXTINF:-1 tvg-id="404" tvg-name="Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army (17:30)" tvg-logo="https://1.bp.blogspot.com/-2EEQeiyhNo4/YApNaZJlqkI/AAAAAAAAMZg/RsLYdLu9ap4M_Ma1h3FdO29cGn8WFpirQCLcBGAsYHQ/s567/Al%2BAhli%2BTripoli.png" group-title="Eventi Live",Basketball Africa League : Al Ahli Tripoli vs Rwandan Patriotic Army (17:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-404.php
 
-#EXTINF:-1 tvg-id="879" tvg-name="Italy Lega A : Olimpia Milano vs Trento (18:00)" tvg-logo="https://sport.periodicodaily.com/wp-content/uploads/2021/07/Olimpia_Milano_logo_2019.png" group-title="Eventi Live",Italy Lega A : Olimpia Milano vs Trento (18:00)
+#EXTINF:-1 tvg-id="879" tvg-name="Italy Lega A : Olimpia Milano vs Trento (18:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/400px-Pallacanestro_Olimpia_Milano_logo.svg.png" group-title="Eventi Live",Italy Lega A : Olimpia Milano vs Trento (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="33" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Indiana Fever W_vs_New York Liberty W.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
+#EXTINF:-1 tvg-id="33" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://cdn.vox-cdn.com/thumbor/NlEu6TpDKrBm7_5COfAqCojigvs=/0x0:1200x1137/1520x0/filters:focal(0x0:1200x1137):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25780494/Indiana_Fever_logo.svg.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
 
 #EXTINF:-1 tvg-id="52" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ind.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-52.php
 
-#EXTINF:-1 tvg-id="767" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ind.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
+#EXTINF:-1 tvg-id="767" tvg-name="WNBA : Indiana Fever W vs New York Liberty W (19:00)" tvg-logo="https://cdn.vox-cdn.com/thumbor/NlEu6TpDKrBm7_5COfAqCojigvs=/0x0:1200x1137/1520x0/filters:focal(0x0:1200x1137):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25780494/Indiana_Fever_logo.svg.png" group-title="Eventi Live",WNBA : Indiana Fever W vs New York Liberty W (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-767.php
 
-#EXTINF:-1 tvg-id="879" tvg-name="Italy Lega A : BTrieste vs Brescia (20:40)" tvg-logo="https://seeklogo.com/images/U/universita-degli-studi-di-trieste-logo-82560654A7-seeklogo.com.png" group-title="Eventi Live",Italy Lega A : BTrieste vs Brescia (20:40)
+#EXTINF:-1 tvg-id="879" tvg-name="Italy Lega A : BTrieste vs Brescia (20:40)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/BTrieste_vs_Brescia.png" group-title="Eventi Live",Italy Lega A : BTrieste vs Brescia (20:40)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
-#EXTINF:-1 tvg-id="308" tvg-name="WNBA : Atlanta Dream W vs Dallas Wings W (21:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Atlanta Dream W_vs_Dallas Wings W.png" group-title="Eventi Live",WNBA : Atlanta Dream W vs Dallas Wings W (21:00)
+#EXTINF:-1 tvg-id="308" tvg-name="WNBA : Atlanta Dream W vs Dallas Wings W (21:00)" tvg-logo="https://content.sportslogos.net/logos/16/2614/full/9500_atlanta_dream-alternate-2020.png" group-title="Eventi Live",WNBA : Atlanta Dream W vs Dallas Wings W (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-308.php
 
-#EXTINF:-1 tvg-id="766" tvg-name="NBA : Oklahoma City Thunder vs Minnesota Timberwolves (02:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Oklahoma City Thunder_vs_Minnesota Timberwolves.png" group-title="Eventi Live",NBA : Oklahoma City Thunder vs Minnesota Timberwolves (02:30)
+#EXTINF:-1 tvg-id="766" tvg-name="NBA : Oklahoma City Thunder vs Minnesota Timberwolves (02:30)" tvg-logo="https://cdn.inspireuplift.com/uploads/images/seller_products/1684729551_44.png" group-title="Eventi Live",NBA : Oklahoma City Thunder vs Minnesota Timberwolves (02:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-766.php
 
 #EXTINF:-1 tvg-id="288" tvg-name="NBA : Oklahoma City Thunder vs Minnesota Timberwolves (02:30)" tvg-logo="https://cdn.inspireuplift.com/uploads/images/seller_products/1684729551_44.png" group-title="Eventi Live",NBA : Oklahoma City Thunder vs Minnesota Timberwolves (02:30)
@@ -1867,13 +1843,13 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="555" tvg-name="Live racing from Haydock, Goodwood, Beverly, Catterick, Salisbury and the Curragh (13:45)" tvg-logo="https://www.amwager.com/wp-content/uploads/2021/12/catterick-race-logo.png" group-title="Eventi Live",Live racing from Haydock, Goodwood, Beverly, Catterick, Salisbury and the Curragh (13:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-555.php
 
-#EXTINF:-1 tvg-id="554" tvg-name="Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Live racing from around the UK (14:00)
+#EXTINF:-1 tvg-id="554" tvg-name="Live racing from around the UK (14:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/british-american-racing-logo-png-transparent.png" group-title="Eventi Live",Live racing from around the UK (14:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-554.php
 
 #EXTINF:-1 tvg-id="39" tvg-name="America's Day at the Races (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",America's Day at the Races (18:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-39.php
 
-#EXTINF:-1 tvg-id="758" tvg-name="America's Day at the Races (21:00)" tvg-logo="https://www.americasbestracing.net/sites/all/modules/custom/abr_widgets/newsletter.png" group-title="Eventi Live",America's Day at the Races (21:00)
+#EXTINF:-1 tvg-id="758" tvg-name="America's Day at the Races (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",America's Day at the Races (21:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-758.php
 
 #EXTINF:-1 tvg-name="Ice Hockey" group-title="Eventi Live",--- Ice Hockey ---
@@ -1891,13 +1867,13 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="840" tvg-name="2025 IIHF World Championship Semifinal 1 : Sweden vs USA (14:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230104/original/pngtree-sweden-circle-flag-vector-png-image_8871946.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 1 : Sweden vs USA (14:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-840.php
 
-#EXTINF:-1 tvg-id="663" tvg-name="2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Switzerland_vs_Denmark.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)
+#EXTINF:-1 tvg-id="663" tvg-name="2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/switzerland-3-logo-png-transparent.png" group-title="Eventi Live",2025 IIHF World Championship Semifinal 2 : Switzerland vs Denmark (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-663.php
 
-#EXTINF:-1 tvg-id="765" tvg-name="PWHL Walter Cup Final : Ottawa Charge vs Minnesota Frost (23:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Ottawa Charge_vs_Minnesota Frost.png" group-title="Eventi Live",PWHL Walter Cup Final : Ottawa Charge vs Minnesota Frost (23:00)
+#EXTINF:-1 tvg-id="765" tvg-name="PWHL Walter Cup Final : Ottawa Charge vs Minnesota Frost (23:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/Ottawa-Charge-Logo-2024.png" group-title="Eventi Live",PWHL Walter Cup Final : Ottawa Charge vs Minnesota Frost (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-765.php
 
-#EXTINF:-1 tvg-id="550" tvg-name="NHL : Carolina Hurricanes vs Florida Panthers (02:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Carolina Hurricanes_vs_Florida Panthers.png" group-title="Eventi Live",NHL : Carolina Hurricanes vs Florida Panthers (02:00)
+#EXTINF:-1 tvg-id="550" tvg-name="NHL : Carolina Hurricanes vs Florida Panthers (02:00)" tvg-logo="https://cdn.inspireuplift.com/uploads/images/seller_products/17516/iu_1711097016_1.png" group-title="Eventi Live",NHL : Carolina Hurricanes vs Florida Panthers (02:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-550.php
 
 #EXTINF:-1 tvg-id="338" tvg-name="NHL : Carolina Hurricanes vs Florida Panthers (02:00)" tvg-logo="https://cdn.inspireuplift.com/uploads/images/seller_products/17516/iu_1711097016_1.png" group-title="Eventi Live",NHL : Carolina Hurricanes vs Florida Panthers (02:00)
@@ -1909,25 +1885,25 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-name="Lacrosse" group-title="Eventi Live",--- Lacrosse ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="Men's College Lacrosse : Penn State vs. Cornell (18:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Penn State_vs_Cornell.png" group-title="Eventi Live",Men's College Lacrosse : Penn State vs. Cornell (18:00)
+#EXTINF:-1 tvg-id="45" tvg-name="Men's College Lacrosse : Penn State vs. Cornell (18:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/penn-state-lions-logo-black-and-white.png" group-title="Eventi Live",Men's College Lacrosse : Penn State vs. Cornell (18:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="Men's College Lacrosse : Syracuse vs. Maryland (20:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Syracuse_vs_Maryland.png" group-title="Eventi Live",Men's College Lacrosse : Syracuse vs. Maryland (20:30)
+#EXTINF:-1 tvg-id="45" tvg-name="Men's College Lacrosse : Syracuse vs. Maryland (20:30)" tvg-logo="https://content.sportslogos.net/logos/34/859/full/syracuse_orange_logo_primary_20063421.png" group-title="Eventi Live",Men's College Lacrosse : Syracuse vs. Maryland (20:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
-#EXTINF:-1 tvg-id="45" tvg-name="NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Saskatchewan Rush_vs_Buffalo Bandits.png" group-title="Eventi Live",NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)
+#EXTINF:-1 tvg-id="45" tvg-name="NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2022/11/Saskatchewan-Rush-logo-PNG-300x300.png" group-title="Eventi Live",NLL Lacrosse : Saskatchewan Rush vs. Buffalo Bandits (22:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-45.php
 
 #EXTINF:-1 tvg-name="Rugby League" group-title="Eventi Live",--- Rugby League ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="National Rugby League : Penrith Panthers vs Newcastle Knights (09:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Penrith Panthers_vs_Newcastle Knights.png" group-title="Eventi Live",National Rugby League : Penrith Panthers vs Newcastle Knights (09:30)
+#EXTINF:-1 tvg-id="37" tvg-name="National Rugby League : Penrith Panthers vs Newcastle Knights (09:30)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/04/Penrith-Panthers-Logo-history.png" group-title="Eventi Live",National Rugby League : Penrith Panthers vs Newcastle Knights (09:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-37.php
 
-#EXTINF:-1 tvg-id="37" tvg-name="National Rugby League : Sydney Roosters vs Cronulla Sharks (11:35)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Sydney Roosters_vs_Cronulla Sharks.png" group-title="Eventi Live",National Rugby League : Sydney Roosters vs Cronulla Sharks (11:35)
+#EXTINF:-1 tvg-id="37" tvg-name="National Rugby League : Sydney Roosters vs Cronulla Sharks (11:35)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/sydney-roosters-logo.png" group-title="Eventi Live",National Rugby League : Sydney Roosters vs Cronulla Sharks (11:35)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-37.php
 
-#EXTINF:-1 tvg-id="37" tvg-name="Super League Rugby : Catalans Dragons vs Wigan Warriors (18:30)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Catalans Dragons_vs_Wigan Warriors.png" group-title="Eventi Live",Super League Rugby : Catalans Dragons vs Wigan Warriors (18:30)
+#EXTINF:-1 tvg-id="37" tvg-name="Super League Rugby : Catalans Dragons vs Wigan Warriors (18:30)" tvg-logo="https://galleryofleague.com/wp-content/uploads/2022/01/Catalans_Dragons_Logo1-01-980x1025.png" group-title="Eventi Live",Super League Rugby : Catalans Dragons vs Wigan Warriors (18:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-37.php
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
@@ -1939,10 +1915,10 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="449" tvg-name="Super Rugby : Chiefs vs Moana Pasifika (09:05)" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Chiefs-Logo-PNG-Clipart.png" group-title="Eventi Live",Super Rugby : Chiefs vs Moana Pasifika (09:05)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-449.php
 
-#EXTINF:-1 tvg-id="449" tvg-name="Super Rugby : Force vs Waratahs (11:35)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Force_vs_Waratahs.png" group-title="Eventi Live",Super Rugby : Force vs Waratahs (11:35)
+#EXTINF:-1 tvg-id="449" tvg-name="Super Rugby : Force vs Waratahs (11:35)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/us-air-force-1-logo-png-transparent.png" group-title="Eventi Live",Super Rugby : Force vs Waratahs (11:35)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-449.php
 
-#EXTINF:-1 tvg-id="670" tvg-name="European Rugby Champions Cup : Northampton Saints vs Bordeaux Begles (15:45)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/Northampton Saints_vs_Bordeaux Begles.png" group-title="Eventi Live",European Rugby Champions Cup : Northampton Saints vs Bordeaux Begles (15:45)
+#EXTINF:-1 tvg-id="670" tvg-name="European Rugby Champions Cup : Northampton Saints vs Bordeaux Begles (15:45)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/northampton-saints-logo.png" group-title="Eventi Live",European Rugby Champions Cup : Northampton Saints vs Bordeaux Begles (15:45)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-670.php
 
 #EXTINF:-1 tvg-id="451" tvg-name="European Rugby Champions Cup : Northampton Saints vs Bordeaux Begles (15:45)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/northampton-saints-logo.png" group-title="Eventi Live",European Rugby Champions Cup : Northampton Saints vs Bordeaux Begles (15:45)
@@ -1950,12 +1926,6 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 
 #EXTINF:-1 tvg-id="451" tvg-name="Major League Rugby : New England Free Jacks vs Old Glory DC (23:00)" tvg-logo="https://freejacks.com/wp-content/uploads/2021/10/FJLantern_Stroke.png" group-title="Eventi Live",Major League Rugby : New England Free Jacks vs Old Glory DC (23:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-451.php
-
-#EXTINF:-1 tvg-id="68" tvg-name="Major League Rugby : NOLA Gold vs Utah Warriors (01:00)" tvg-logo="https://www.americasrugbynews.com/wp-content/uploads/2019/03/logo-nola-gold-300px-MLR-2020.png" group-title="Eventi Live",Major League Rugby : NOLA Gold vs Utah Warriors (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-68.php
-
-#EXTINF:-1 tvg-id="106" tvg-name="Major League Rugby : Anthem RC vs Chicago Hounds (01:00)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Logo_Anthem_Rugby_Carolina_2024.png/revision/latest?cb=20240910113743" group-title="Eventi Live",Major League Rugby : Anthem RC vs Chicago Hounds (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-106.php
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
 https://example.m3u8
@@ -1978,28 +1948,19 @@ https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/str
 #EXTINF:-1 tvg-id="768" tvg-name="PBA Bowling Playoffs, Championship (20:30)" tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:600/h:600/q:75/https://bleedingcool.com/wp-content/uploads/2019/10/pba-pro-bowling-logo.png" group-title="Eventi Live",PBA Bowling Playoffs, Championship (20:30)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-768.php
 
-#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
-https://example.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="World Cup | Salt Lake City Women's Bouldering | Final (01:00)" tvg-logo="https://png.pngtree.com/png-vector/20240108/ourmid/pngtree-icc-mens-t20-world-cup-2024-logo-vector-png-image_11201318.png" group-title="Eventi Live",World Cup | Salt Lake City Women's Bouldering | Final (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-33.php
-
-#EXTINF:-1 tvg-id="878" tvg-name="World Cup | Salt Lake City Women's Bouldering | Final (01:00)" tvg-logo="https://png.pngtree.com/png-vector/20240108/ourmid/pngtree-icc-mens-t20-world-cup-2024-logo-vector-png-image_11201318.png" group-title="Eventi Live",World Cup | Salt Lake City Women's Bouldering | Final (01:00)
-https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
-
 #EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Piazza di Siena 2025-Small Grand Prix (14:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0063291-2271-4ffe-8b7e-4d77bcefa849/dfalf2b-d28d4446-af8d-4221-9458-1c6aa3ce7c6b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QwMDYzMjkxLTIyNzEtNGZmZS04YjdlLTRkNzdiY2VmYTg0OVwvZGZhbGYyYi1kMjhkNDQ0Ni1hZjhkLTQyMjEtOTQ1OC0xYzZhYTNjZTdjNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yyo3Xw2n91nmELfgiZdfpkrayKua8PzGCLW21RcoWzE" group-title="Eventi Live",Piazza di Siena 2025-Small Grand Prix (14:00)
+#EXTINF:-1 tvg-id="882" tvg-name="Piazza di Siena 2025-Small Grand Prix (14:00)" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2022/10/ART-Grand-Prix-logo-PNG.png" group-title="Eventi Live",Piazza di Siena 2025-Small Grand Prix (14:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
-#EXTINF:-1 tvg-id="851" tvg-name="Piazza di Siena 2025-Small Grand Prix (19:00)" tvg-logo="https://ilcalcio.net/assets/b1/ba/b1ba95a1d5526bac61de9fbd570d73e7.png" group-title="Eventi Live",Piazza di Siena 2025-Small Grand Prix (19:00)
+#EXTINF:-1 tvg-id="851" tvg-name="Piazza di Siena 2025-Small Grand Prix (19:00)" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2022/10/ART-Grand-Prix-logo-PNG.png" group-title="Eventi Live",Piazza di Siena 2025-Small Grand Prix (19:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
 #EXTINF:-1 tvg-name="Netball" group-title="Eventi Live",--- Netball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="449" tvg-name="Superleague : London Mavericks W vs Nottingham W (17:00)" tvg-logo="https://raw.githubusercontent.com/francescoaracu/OhMaiGhiodd/main/logos/London Mavericks W_vs_Nottingham W.png" group-title="Eventi Live",Superleague : London Mavericks W vs Nottingham W (17:00)
+#EXTINF:-1 tvg-id="449" tvg-name="Superleague : London Mavericks W vs Nottingham W (17:00)" tvg-logo="https://d2cx26qpfwuhvu.cloudfront.net/nsl/wp-content/uploads/2015/10/27160657/London-Mavericks-Logo_On-Light_RGB.png" group-title="Eventi Live",Superleague : London Mavericks W vs Nottingham W (17:00)
 https://frankuaku-goganga.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-449.php
 
 
